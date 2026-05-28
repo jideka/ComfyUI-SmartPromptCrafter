@@ -1,0 +1,18 @@
+[project]
+name = "comfyui-smart-prompt-crafter"
+version = "1.0.0"
+description = "AI-powered prompt optimizer for ComfyUI — auto-detects your model architecture and generates optimized positive & negative prompts via Groq (free)"
+license = { file = "LICENSE" }
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/YOUR_USERNAME/ComfyUI-SmartPromptCrafter"
+Repository = "https://github.com/YOUR_USERNAME/ComfyUI-SmartPromptCrafter"
+Issues = "https://github.com/YOUR_USERNAME/ComfyUI-SmartPromptCrafter/issues"
+
+[tool.comfy]
+PublisherId = "jideka"
+DisplayName = "Smart Prompt Crafter"
+Icon = "https://raw.githubusercontent.com/YOUR_USERNAME/ComfyUI-SmartPromptCrafter/main/assets/icon.png"

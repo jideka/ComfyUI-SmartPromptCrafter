@@ -126,3 +126,5 @@ MIT — see [LICENSE](LICENSE)
 
 Built with [Groq](https://groq.com) — `llama-3.3-70b-versatile`  
 Inspired by the ComfyUI community ❤️
+
+Buy me a coffe : https://ko-fi.com/jideka

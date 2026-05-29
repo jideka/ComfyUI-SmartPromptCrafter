@@ -4,8 +4,6 @@
 
 No more guessing whether to use `score_9` tags for Pony, natural language for SDXL, or comma tokens for SD 1.5. Just describe your rough idea, connect your model, and get production-ready prompts instantly.
 
-![Node Preview](assets/node_preview.png)
-
 
 EDIT 2026-05-29 : Cache Groq results per model and prompt. First run calls the API, subsequent runs are instant with no API overhead. Cache persists for the full ComfyUI session and covers all loaded models independently.
 ---
